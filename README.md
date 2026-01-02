@@ -1,7 +1,9 @@
 # -_-_mental_map_app_- :. 
 A continuación presento una solución completa, profesional y lista para ejecutar en IntelliJ IDEA, desarrollada en Java Swing, que muestra un mapa mental tipo PowerPoint dentro de una interfaz gráfica, utilizando nodos, conexiones y diseño visual claro, similar a una diapositiva conceptual .
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e14bad1-cb01-4b62-a338-86f5823cb915" />    
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e14bad1-cb01-4b62-a338-86f5823cb915" />        
+
+<img width="1282" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c6fa0dd-bbed-4362-96ae-d2092675635a" />    
 
 ## 🎯 Objetivo del programa :
 
