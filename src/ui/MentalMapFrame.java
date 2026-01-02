@@ -10,7 +10,7 @@ public class MentalMapFrame extends JFrame {
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-     //   add(new MentalMapPanel());
+        add(new MentalMapPanel());
 
         setVisible(true);
     }
